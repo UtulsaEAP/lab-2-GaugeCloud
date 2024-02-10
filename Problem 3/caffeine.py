@@ -10,7 +10,7 @@ def caffeine():
     print(f'{caffeine_mg_after_6 :.2f}', "mg")
     print("After 12 hours:", end=" ")
     print(f'{caffeine_mg_after_12 :.2f}', "mg")
-    print("After 24 hours", end=" ")
+    print("After 24 hours:", end=" ")
     print(f'{caffeine_mg_after_24 :.2f}', "mg")
 
     
